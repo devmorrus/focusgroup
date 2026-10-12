@@ -7,19 +7,19 @@ const companies = [
   },
     {
     name: 'PT. Mitra Cemerlang Bersama',
-    description: 'Perusahaan yang berfokus pada aktivitas perdagangan export import untuk membantu perusahaan memenuhi kebutuhan supply, distribusi, dan pengembangan pasar secara lebih efektif.',
+    description: 'Perusahaan yang berfokus pada aktivitas Perdagangan Export Import untuk membantu perusahaan memenuhi kebutuhan Supply, Distribusi, dan Pengembangan Pasar secara lebih efektif.',
     url: 'https://www.mitracemerlangbersama.com/',
     logo: '/MCB.png',
   },
     {
     name: 'CV. Morrus Digital Connecting',
-    description: 'Perusahaan IT yang bergerak di bidang pengembangan website, aplikasi web dan mobile, solusi digital bisnis, serta pelatihan dan pengembangan keterampilan teknologi melalui Digital Academy.',
+    description: 'Perusahaan IT yang bergerak di bidang Pengembangan Website, Aplikasi Web dan Mobile, Solusi Digital Bisnis, serta Pelatihan dan Pengembangan Keterampilan Teknologi melalui Digital Academy.',
     url: 'https://www.morrusdigitalconnecting.com/',
     logo: '/MDC.png',
   },
   {
     name: 'CV. Deferd Concept',
-    description: 'Perusahaan jasa yang bergerak di bidang konsultan Engineering dan manajemen konstruksi, meliputi perencanaan, pengawasan, serta pengelolaan proyek pembangunan.',
+    description: 'Perusahaan jasa yang bergerak di bidang Konsultan Engineering dan Manajemen Konstruksi, meliputi Perencanaan, Pengawasan, serta Pengelolaan Proyek Pembangunan.',
     url: 'https://www.defertconcept.com/',
     logo: '/DFC.png',
     logoScale: 1.5,
