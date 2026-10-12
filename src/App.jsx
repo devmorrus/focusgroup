@@ -26,6 +26,7 @@ const companies = [
   },
 ];
 
+
 function App() {
   return (
     <main className="page-shell">
