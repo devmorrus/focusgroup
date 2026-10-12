@@ -34,7 +34,7 @@ function App() {
           <img
             className="hero__logo"
             id="page-title"
-            src="/logo-focus.png"
+            src="/FGC.png"
             alt="Focus Group"
           />
           <p className="hero__intro">

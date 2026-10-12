@@ -89,6 +89,10 @@ a {
 }
 
 @media (max-width: 720px) {
+  .hero__logo {
+    width: clamp(280px, 78vw, 420px);
+  }
+
   .hero__intro {
     border-radius: 24px;
     padding: 12px 20px;
