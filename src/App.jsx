@@ -1,24 +1,24 @@
 const companies = [
   {
-    name: 'CV Focus Trading Contractor',
+    name: 'CV. Focus Trading Contractor',
     description: 'Perusahaan jasa yang bergerak di bidang Design and Build, Acoustic Installation, Finishing & Infrastructure.',
     url: 'https://www.focustradingcontractor.com/',
     logo: '/FTC.png',
   },
     {
-    name: 'PT Mitra Cemerlang Bersama',
+    name: 'PT. Mitra Cemerlang Bersama',
     description: 'Perusahaan yang berfokus pada aktivitas perdagangan export import untuk membantu perusahaan memenuhi kebutuhan supply, distribusi, dan pengembangan pasar secara lebih efektif.',
     url: 'https://www.mitracemerlangbersama.com/',
     logo: '/MCB.png',
   },
     {
-    name: 'CV Morrus Digital Connecting',
+    name: 'CV. Morrus Digital Connecting',
     description: 'Perusahaan IT yang bergerak di bidang pengembangan website, aplikasi web dan mobile, solusi digital bisnis, serta pelatihan dan pengembangan keterampilan teknologi melalui Digital Academy.',
     url: 'https://www.morrusdigitalconnecting.com/',
     logo: '/MDC.png',
   },
   {
-    name: 'CV Deferd Concept',
+    name: 'CV. Deferd Concept',
     description: 'Perusahaan jasa yang bergerak di bidang konsultansi teknik dan manajemen konstruksi, meliputi perencanaan, pengawasan, serta pengelolaan proyek pembangunan.',
     url: 'https://www.defertconcept.com/',
     logo: '/DFC.png',
