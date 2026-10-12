@@ -19,7 +19,7 @@ const companies = [
   },
   {
     name: 'CV. Deferd Concept',
-    description: 'Perusahaan jasa yang bergerak di bidang konsultansi teknik dan manajemen konstruksi, meliputi perencanaan, pengawasan, serta pengelolaan proyek pembangunan.',
+    description: 'Perusahaan jasa yang bergerak di bidang konsultan Engineering dan manajemen konstruksi, meliputi perencanaan, pengawasan, serta pengelolaan proyek pembangunan.',
     url: 'https://www.defertconcept.com/',
     logo: '/DFC.png',
     logoScale: 1.5,
