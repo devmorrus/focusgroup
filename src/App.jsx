@@ -18,7 +18,7 @@ const companies = [
     logo: '/MDC.png',
   },
   {
-    name: 'CV DeferD Concept',
+    name: 'CV Deferd Concept',
     description: 'Perusahaan jasa yang bergerak di bidang konsultansi teknik dan manajemen konstruksi, meliputi perencanaan, pengawasan, serta pengelolaan proyek pembangunan.',
     url: 'https://www.defertconcept.com/',
     logo: '/DFC.png',
